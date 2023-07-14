@@ -2,15 +2,13 @@
 
 People called me Hadziq, Hajik, Hajiq, Hazik, whatever.
 
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhadziqrazin&label=Profile%20views&color=0e75b6&style=flat" alt="mhadziqrazin" /> </p>
 
 <h3 align="left">Let's expand our connections 😎</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mhadziqrazin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhadziqrazin" height="30" width="40" /></a>
 <a href="https://instagram.com/hadziqrazin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hadziqrazin" height="30" width="40" /></a>
 </p>
-
-<br />
 
 <h3 align="left">Languages and Tools 🔨</h3>
 <p align="left">
@@ -25,9 +23,10 @@ People called me Hadziq, Hajik, Hajiq, Hazik, whatever.
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373965/pgsql.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
-<br />
 
-<h3 align="left">Some stats (I know it sucks 😭)</h3>
+<h3 align="left">Some stats (I know it sucks 😭, or maybe not 👀)</h3>
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhadziqrazin&show_icons=true&locale=en" alt="mhadziqrazin" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhadziqrazin&" alt="mhadziqrazin" /></p>
