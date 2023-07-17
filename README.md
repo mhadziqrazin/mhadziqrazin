@@ -20,3 +20,6 @@ People called me Hadziq, Hajik, Hajiq, Hazik, whatever.
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373965/pgsql.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhadziqrazin&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=objective-c,makefile,cmake" alt="mhadziqrazin" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhadziqrazin&show_icons=true&locale=en&theme=tokyonight&hide=stars,issues" alt="mhadziqrazin" />
