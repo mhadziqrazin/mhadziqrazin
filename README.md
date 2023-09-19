@@ -3,6 +3,7 @@
 People called me Hadziq, Hajik, Hajiq, Hazik, whatever.
 
 <h3 align="left">Let's expand our connections 😎</h3>
+<p>Personal website: <a href="https://www.hadziqrazin.com" target="_blank">hadziqrazin.com</a></p>
 <p align="left">
 <a href="https://linkedin.com/in/mhadziqrazin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhadziqrazin" height="30" width="40" /></a>
 <a href="https://instagram.com/hadziqrazin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hadziqrazin" height="30" width="40" /></a>
